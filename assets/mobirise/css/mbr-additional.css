@@ -1111,7 +1111,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rXPFncAoaD {
-  background-color: #7a50ea;
+  background-color: #7450d4;
 }
 .cid-rXPFncAoaD H1 {
   text-align: left;
@@ -1120,8 +1120,19 @@ section.lazy-placeholder:after {
 .cid-rXPFncAoaD .mbr-section-btn {
   text-align: left;
 }
+.cid-rXTSScqPjU {
+  background: linear-gradient(45deg, #e64c4c, #e64c4c);
+}
+.cid-rXTSScqPjU H1 {
+  text-align: right;
+}
+.cid-rXTSScqPjU .mbr-text,
+.cid-rXTSScqPjU .mbr-section-btn {
+  text-align: right;
+  color: #ffffff;
+}
 .cid-rXPKTqx7bS {
-  background-color: #e64c4c;
+  background-color: #2ccf86;
 }
 .cid-rXPKTqx7bS .icons-media-container {
   display: flex;
@@ -1149,42 +1160,32 @@ section.lazy-placeholder:after {
 .cid-rXPKTqx7bS P {
   text-align: center;
 }
-.cid-rXTSScqPjU {
-  background: linear-gradient(45deg, #35b67c, #35b67c);
-}
-.cid-rXTSScqPjU H1 {
-  text-align: right;
-}
-.cid-rXTSScqPjU .mbr-text,
-.cid-rXTSScqPjU .mbr-section-btn {
-  text-align: right;
-  color: #ffffff;
-}
-.cid-rXTZjnPDJC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #f4e935, #f4e935);
-}
-.cid-rXTZjnPDJC H1 {
-  text-align: left;
-  color: #232323;
-}
-.cid-rXTZjnPDJC .mbr-text,
-.cid-rXTZjnPDJC .mbr-section-btn {
-  text-align: left;
-  color: #232323;
-}
 .cid-rXU0wzQiQ8 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #35b67c, #35b67c);
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(45deg, #f4e935, #f4e935);
 }
 .cid-rXU0wzQiQ8 H1 {
   text-align: center;
+  color: #000000;
 }
 .cid-rXU0wzQiQ8 .mbr-text,
 .cid-rXU0wzQiQ8 .mbr-section-btn {
   text-align: center;
+  color: #000000;
+}
+.cid-rXTZjnPDJC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #35b67c, #35b67c);
+}
+.cid-rXTZjnPDJC H1 {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-rXTZjnPDJC .mbr-text,
+.cid-rXTZjnPDJC .mbr-section-btn {
+  text-align: left;
   color: #ffffff;
 }
 .cid-rXU1MxqOS1 {
@@ -2369,4 +2370,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXU32CHsZO .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rXUpmuPbct {
+  background-color: #7450d4;
 }
