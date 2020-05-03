@@ -1124,11 +1124,11 @@ section.lazy-placeholder:after {
   background: linear-gradient(45deg, #e64c4c, #e64c4c);
 }
 .cid-rXTSScqPjU H1 {
-  text-align: right;
+  text-align: left;
 }
 .cid-rXTSScqPjU .mbr-text,
 .cid-rXTSScqPjU .mbr-section-btn {
-  text-align: right;
+  text-align: left;
   color: #ffffff;
 }
 .cid-rXPKTqx7bS {
@@ -1166,12 +1166,12 @@ section.lazy-placeholder:after {
   background: linear-gradient(45deg, #f4e935, #f4e935);
 }
 .cid-rXU0wzQiQ8 H1 {
-  text-align: center;
+  text-align: right;
   color: #000000;
 }
 .cid-rXU0wzQiQ8 .mbr-text,
 .cid-rXU0wzQiQ8 .mbr-section-btn {
-  text-align: center;
+  text-align: right;
   color: #000000;
 }
 .cid-rXTZjnPDJC {
