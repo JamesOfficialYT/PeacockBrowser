@@ -1679,8 +1679,20 @@ section.lazy-placeholder:after {
 .cid-rXPCVv1Wka .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rXSIiv5HMa {
-  background-color: #4484ca;
+.cid-rXYnfTs8rg {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-color: #329bd1;
+}
+.cid-rXYnfTs8rg P {
+  color: #767676;
+}
+.cid-rXYnfTs8rg H1 {
+  color: #ffffff;
+}
+.cid-rXYnfTs8rg .mbr-text,
+.cid-rXYnfTs8rg .mbr-section-btn {
+  color: #efefef;
 }
 .cid-rXSIKOiJJw {
   padding-top: 60px;
